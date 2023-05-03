@@ -2,7 +2,7 @@
 
 ## ALTBİLGİ
 
-[google] (http://www.google.com)
+[google](http://www.google.com)
 
 
 
